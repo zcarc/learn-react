@@ -1,0 +1,18 @@
+
+:local .wrapper {
+    background: black;
+    padding: 1rem;
+    color: white;
+    font-size: 2rem;
+}
+
+:local .inverted {
+    color: black;
+    background: white;
+    border: 1px solid black;
+}
+
+.something {
+    font-weight: 800;
+    color: aqua;
+}
