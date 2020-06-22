@@ -1,5 +1,5 @@
 import React from "react";
-import Average from "./Hooks/Average";
+import Average from "./Hooks/useRef";
 
 const App = () => {
   return <Average />;
